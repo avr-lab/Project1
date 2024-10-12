@@ -1,3 +1,8 @@
 numpy
 pytest
 ipython
+pands
+statsmodels
+seabon
+matplotlib
+seipy
