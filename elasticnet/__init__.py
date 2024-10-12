@@ -1,3 +1,8 @@
+#Ajay Anand A20581927
+#Anish Vishwanathan VR A20596106
+#Mohit Panchatcharam A20562455
+#Sibi Chandra sekar A20577946
+
 import pandas as pd
 import numpy as np
 import statsmodels.api as sm
